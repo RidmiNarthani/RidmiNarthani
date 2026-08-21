@@ -23,7 +23,7 @@ Business Analytics Undergraduate & AAT Passed Finalist with a strong foundation 
 
 - 📊 **Business & BI Analytics:** Interactive dashboards, financial data modeling, and reporting.
 - 📋 **Project Management:** Applying analytical frameworks to manage project workflows and business needs.
-- 🎓 **Qualifications:** AAT Passed Finalist | Undergraduate in Business Analytics.
+- 🎓 **Qualifications:** Undergraduate in Business Information Systems | AAT Passed Finalist .
 
 ---
 
