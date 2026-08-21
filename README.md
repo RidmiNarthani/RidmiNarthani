@@ -1,6 +1,6 @@
 # Hi there, I'm Ridmi Narthani 👋
 
-Business Analytics Undergraduate & AAT Passed Finalist with a strong foundation in financial domain knowledge, data analytics, and project management. I specialize in transforming raw business data into actionable insights using SQL, Power BI, and Tableau.
+Business Information Systems(Special) Undergraduate & AAT Passed Finalist with a strong foundation in financial domain knowledge, data analytics, and project management. I specialize in transforming raw business data into actionable insights using SQL, Power BI, and Tableau.
 
 ---
 
