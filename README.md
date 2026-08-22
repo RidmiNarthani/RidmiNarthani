@@ -10,9 +10,9 @@
 
 <!-- 3D Social Badges with Depth Effect -->
 <p align="center">
-  <a href="https://your-portfolio.com](https://animated-faun-dd16eb.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
-  </a>
+ <a href="https://animated-faun-dd16eb.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
+</a>
   <a href="https://linkedin.com/in/ridminarthani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
   </a>
