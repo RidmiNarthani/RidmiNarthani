@@ -10,7 +10,7 @@
 
 <!-- All Badges in One Line -->
 <p align="center">
-  <a href="https://animated-faun-dd16eb.netlify.app/">
+  <a href="https://animated-faun-dd16eb.netlify.app/](https://elaborate-begonia-f39679.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ridmi-narthani">
