@@ -13,9 +13,9 @@
  <a href="https://animated-faun-dd16eb.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
 </a>
-  <a href="www.linkedin.com/in/ridmi-narthani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/ridmi-narthani">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
+</a>
  
 </p>
 
