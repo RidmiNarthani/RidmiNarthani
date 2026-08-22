@@ -26,10 +26,6 @@
 
 ---
 
-<!-- 3D Isometric Divider -->
-<p align="center">
-<img src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
-</p>
 
 ## 🎮 About Me in 3D
 
