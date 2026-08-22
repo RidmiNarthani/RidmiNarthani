@@ -27,7 +27,7 @@
 ---
 
 
-## 🎮 About Me in 3D
+## 🎮 About Me
 
 <div align="center">
   <table>
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧊 3D Tech Stack
+## 🧊Tech Stack
 
 ### 🎯 Primary Dimensions
 <p>
