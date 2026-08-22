@@ -1,7 +1,11 @@
 <h1 align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Ridmi%20Narthani&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Business%20Analytics%20Enthusiastic&descAlignY=55&descSize=20" />
   
-Hi, I'm <span style="color: #6C63FF; font-weight: bold; text-shadow: 0 0 10px #6C63FF, 0 0 20px #6C63FF;">Ridmi</span>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ridmi+Narthani;Business+Analytics+Enthusiastic" alt="Typing SVG" />
+  </a>
+</p>
 </h1>
 
 <!-- 3D Animated Typing SVG -->
