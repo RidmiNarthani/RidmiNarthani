@@ -10,21 +10,13 @@
 
 <!-- 3D Social Badges with Depth Effect -->
 <p align="center">
-  <a href="https://your-portfolio.com">
+  <a href="https://your-portfolio.com](https://animated-faun-dd16eb.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ridminarthani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/ridminarthani">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A" alt="X" />
-  </a>
-  <a href="https://youtube.com/@ridminarthani">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/ridminarthani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram" />
-  </a>
+ 
 </p>
 
 ---
