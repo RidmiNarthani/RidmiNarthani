@@ -1,252 +1,108 @@
-<div align="center">
+<h1 align="center">🚀 Hi, I'm <span style="color:#00b4d8">[Your Name]</span> 👋</h1>
 
-# ✨ Hi, I'm **Ridmi Narthani** 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
-### 🎓 Business Analytics Undergraduate · 📊 Data & BI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Business+Analytics+%7C+Power+BI+%7C+SQL;Building+Data-Driven+Solutions+%F0%9F%9A%80" />
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🌌 About Me
+## ✨ About Me
 
-<table>
-<tr>
-<td width="55%">
+I'm a **passionate developer** who loves building things that live on the internet. I enjoy turning complex problems into elegant, interactive, and user-friendly solutions. My code is my craft, and I'm always learning new ways to improve it.
 
-🎓 I'm a **Business Analytics Undergraduate** passionate about understanding how data can support better business decisions.
-
-📊 My main interests are **Business Intelligence, Data Analytics, Visualization, and Project Management**.
-
-💡 I enjoy transforming **raw data → meaningful insights → better decisions**.
-
-🌱 Currently exploring **Agile methodologies, advanced data visualization, and modern analytics tools**.
-
-🎯 My long-term goal is to bridge the gap between **Business Strategy & Data Analytics**.
-
-</td>
-
-<td width="45%">
-
-```text
-╭────────────────────────────╮
-│       RIDMI NARTHANI       │
-├────────────────────────────┤
-│ 🎓 Business Analytics      │
-│ 📊 Data & BI               │
-│ 💻 SQL • Python             │
-│ 📈 Power BI                 │
-│ 🚀 Project Management      │
-│ 🌱 Always Learning         │
-╰────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
+- 🔭 I’m currently working on **[Your Current Project]**
+- 🌱 I’m currently learning **Web3 & AI**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, and UI/UX**
+- ⚡ Fun fact: **I'm a coffee connoisseur ☕ and a pixel-perfect perfectionist.**
 
 ---
 
-## 🧊 My Tech Stack
+## 🛠️ My Tech Stack
 
-<div align="center">
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
-### 📊 Data & Business Intelligence
+### 🚀 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💻 Development & Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-### 🔧 Workflow
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💱 Real-Time Currency Converter
-
-A Python-based application developed as a **group project**, featuring currency conversion and exchange-rate visualization.
-
-**Tech:** Python · APIs · Data Visualization
-
-</td>
-
-<td width="50%">
-
-### 🚗 ParkEasy
-
-A database-focused project designed to manage parking-related operations through a structured information system.
-
-**Tech:** SQL · Database Design · Development
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Power BI Dashboards
-
-Interactive dashboards created to transform datasets into meaningful visual insights and support business analysis.
-
-**Tech:** Power BI · Data Analysis · Visualization
-
-</td>
-
-<td width="50%">
-
-### 📝 Quiz & Notepad Applications
-
-Practical software projects developed to strengthen programming, problem-solving and application development skills.
-
-**Tech:** Programming · UI · Application Logic
-
-</td>
-</tr>
-</table>
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📈 What I Love Working With
+## 📊 GitHub Analytics
 
-```text
-             DATA
-               │
-               ▼
-        ┌───────────────┐
-        │  Data Cleaning │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    Analysis   │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ Visualization │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    Insights   │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │   Decisions   │
-        └───────────────┘
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
-## 🎯 My Current Focus
+## 🏆 My Achievements
 
-<div align="center">
-
-| 📊 Business Intelligence |  📈 Data Analytics | 🚀 Project Management |
-| :----------------------: | :----------------: | :-------------------: |
-|         Power BI         | Data Visualization |         Agile         |
-|            SQL           |  Business Insights |         Scrum         |
-|        Dashboards        |  Data Storytelling |   Team Collaboration  |
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 🏆 Certifications & Learning
+## 📝 Latest Blog Posts
 
-🎓 **AAT Sri Lanka**
-🐍 **Python – Coursera**
-📊 **Introduction to Data Analytics – Simplilearn**
-📈 **Business Analysis Basics – Simplilearn**
-⚡ **PMI Kickoff™ Agile Course**
-🌐 **IoT – Cisco / APNIC**
-🔐 **Cybersecurity Fundamentals – APNIC**
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Modern Portfolio with React and Framer Motion](https://yourblog.com/post1)
+- [Understanding the JavaScript Event Loop](https://yourblog.com/post2)
+- [A Beginner's Guide to GraphQL](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📊 GitHub Activity
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always open to interesting conversations, collaborations, or just a friendly chat. Feel free to reach out!
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 💫 Beyond the Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers" />
+</p>
 
-<div align="center">
-
-🎓 **University Life**   •  
-🤝 **Volunteering**   •  
-📚 **Continuous Learning**   •  
-🎤 **Events & Teamwork**
-
-<br><br>
-
-> ### *“Turning data into insights, and insights into impact.”* ✨
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Let's Connect & Build Something Meaningful
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-
-</div>
+<p align="center">
+  <i>“Code is like poetry. It should be clean, elegant, and tell a story.”</i>
+</p>
 
