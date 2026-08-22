@@ -34,12 +34,11 @@
     <tr>
       <td width="60%">
         <ul>
-          <li>🔮 <b>Building the Future</b> – Exploring Web3, Metaverse, and Spatial Computing</li>
-          <li>🎨 <b>3D Design & Animation</b> – Blender, Three.js, Spline, and Cinema 4D</li>
-          <li>🧊 <b>XR Developer</b> – Creating immersive AR/VR experiences</li>
-          <li>🚀 <b>Full-Stack Engineer</b> – MERN, Next.js, and Cloud Architecture</li>
-          <li>📐 <b>Isometric Enthusiast</b> – I see the world from every angle</li>
-          <li>💜 <b>UI/UX Designer</b> – Crafting beautiful, user-centric interfaces</li>
+         <li>📊 <b>Business & Data Analytics</b> – Transforming raw data into strategic business insights using Power BI, Tableau, SPSS & Advanced Excel</li>
+  <li>🎯 <b>Project Management</b> – Streamlining workflows, process modeling & execution with ClickUp, MS Visio & Agile practices</li>
+  <li>🗄️ <b>Data Querying & Management</b> – Extracting & structuring complex datasets using SQL</li>
+  <li>💻 <b>Web Fundamentals</b> – Building functional & responsive interfaces with HTML, CSS, JavaScript & AI Studio Code</li>
+  <li>📈 <b>Problem Solving</b> – Bridging the gap between business needs and data-driven decisions</li>
         </ul>
       </td>
       <td width="40%">
