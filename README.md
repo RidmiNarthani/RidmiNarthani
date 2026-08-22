@@ -1,38 +1,48 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://svg-banners.my.id/api?text=Ridmi%20Narthani&subtext=Business%20Analytics%20Undergraduate%20%7C%20Data%20%26%20BI%20Enthusiast&width=800&height=200&theme=dark" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ridmi%20Narthani&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20Undergraduate%20%7C%20Data%20%26%20BI%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
 </p>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Leveraging+SQL+%26+Power+BI+for+Data+Insights;Turning+Complex+Data+Into+Business+Value%F0%9F%93%88;Passionate+about+Project+Management+%26+BI%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
 
-<br>
-
-<!-- BADGES & METRICS -->
+<!-- BADGES & STATUS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Business%20%26%20Data%20Analytics-blue?style=for-the-badge&logo=analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Opportunities-success?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=RidmiNarthani&color=0072ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-success?style=for-the-badge" />
 </p>
 
 <br>
 
 ---
 
-### 📌 About Me
+### 👩‍💻 About Me
 
-* 🎓 **Business Analytics Undergraduate** driven by turning raw data into strategic decisions.
-* 📊 Passionate about **Data Analytics, BI Analytics, and Project Management**.
-* 💡 Expertise in utilizing **SQL, Power BI, Advanced Excel, and Data Visualization tools** to solve business problems.
-* 🌱 Currently expanding knowledge in **Agile Methodologies & Data Warehousing**.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Business Analytics Undergraduate</b> leveraging data to drive strategic decisions.</li>
+        <li>📊 Passionate about <b>Data Analytics, BI Analytics, and Project Management</b>.</li>
+        <li>💡 Skilled in transforming raw data into actionable insights using <b>Power BI & SQL</b>.</li>
+        <li>🌱 Currently expanding expertise in <b>Agile Methodologies & Advanced Data Visualization</b>.</li>
+        <li>🎯 Goal: Bridging the gap between <b>Business Strategy & Data Analytics</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/data-analysis-illustration-download-in-svg-png-gif-file-formats--analytics-business-dashboard-graph-pack-people-illustrations-4370217.png" width="100%" alt="Analytics Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠 Tools & Tech Stack
+### ⚡ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -44,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RidmiNarthani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
@@ -56,5 +66,5 @@
 ---
 
 <p align="center">
-  💡 <i>"Data is the new oil, but analytics is the engine."</i>
+  <i>"Transforming data into strategic insights."</i>
 </p>
