@@ -10,9 +10,9 @@
 
 <!-- All Badges in One Line -->
 <p align="center">
-  <a href="https://animated-faun-dd16eb.netlify.app/](https://elaborate-begonia-f39679.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
-  </a>
+ <a href="https://elaborate-begonia-f39679.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
+</a>
   <a href="https://www.linkedin.com/in/ridmi-narthani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
   </a>
