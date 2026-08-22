@@ -51,27 +51,30 @@
 
 ---
 
-## 🧊Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 🎯 Primary Dimensions
+### 📊 Data Analytics & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=1A1A2E" alt="Three.js" />
-  <img src="https://img.shields.io/badge/React_Three_Fiber-6C63FF?style=for-the-badge&logo=react&logoColor=white&labelColor=4A3FBF" alt="React Three Fiber" />
-  <img src="https://img.shields.io/badge/Spline-0A0A0A?style=for-the-badge&logo=spline&logoColor=6C63FF" alt="Spline" />
-  <img src="https://img.shields.io/badge/Blender-E87A0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=B86A0A" alt="Blender" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=D43A12" alt="Figma" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=D9B20F" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=C65F19" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=185B37" alt="Advanced Excel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=335C7A" alt="SQL" />
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=032077" alt="SPSS" />
 </p>
 
-### ⚡ Development Layers
+### 🎯 Project Management & Process Design
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=E5D00D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1F5A9E" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=4FC3F7" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1A1A1A" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=267A2E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2C5F8A" alt="Python" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white&labelColor=5B4CBD" alt="ClickUp" />
+  <img src="https://img.shields.io/badge/MS_Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white&labelColor=2B417F" alt="MS Visio" />
 </p>
 
+### 💻 Web Fundamentals & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=C23E1B" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=105B93" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D4BF19" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AI_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=005A96" alt="VS Code" />
+</p>
 ### 🏗️ Infrastructure (3D Layers)
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=E68A00" alt="AWS" />
