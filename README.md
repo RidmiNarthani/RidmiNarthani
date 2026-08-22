@@ -52,7 +52,7 @@
       </td>
       <td width="40%">
         <!-- 3D Isometric Avatar Placeholder -->
-        <img src="https://cdn-icons-png.flaticon.com/512/5959/5959517.png" alt="3D Avatar" width="200" />
+        <img src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif" alt="3D Avatar" width="200" />
       </td>
     </tr>
   </table>
