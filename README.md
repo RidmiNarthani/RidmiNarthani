@@ -6,7 +6,7 @@
 
 <!-- 3D Animated Typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" />
+  <img src="(https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif) />
 </p>
 
 <!-- 3D Social Badges with Depth Effect -->
