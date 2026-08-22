@@ -8,11 +8,6 @@
 </p>
 </h1>
 
-<!-- 3D Animated Typing SVG -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
-</p>
-
 <!-- 3D Social Badges with Depth Effect -->
 <p align="center">
   <a href="https://your-portfolio.com">
