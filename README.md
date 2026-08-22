@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=https://camo.githubusercontent.com/1a25475b57924dd12ec05fe54ea44ce688f54adf87f1c54c5dafc9e10140c0c6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d302c322c3230266865696768743d3230302673656374696f6e3d68656164657226746578743d44696c75746861253230576565726173696e67686526666f6e7453697a653d353526666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d333526646573633d424953253230556e64657267726164756174652532307c25323044617461253230536369656e63652532304578706c6f7265722664657363416c69676e593d3535266465736353697a653d3230 />
+  <img src=![Mage Nama Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Mage%20Nama&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Data%20Science%20Explorer&descAlignY=55&descSize=20)/>
   Hi, I'm <span style="color:#6C63FF; text-shadow: 3px 3px 0 #FF6584;">Ridmi Narthani</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 </h1>
