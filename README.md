@@ -8,29 +8,20 @@
 </p>
 </h1>
 
-<!-- 3D Social Badges with Depth Effect -->
+<!-- All Badges in One Line -->
 <p align="center">
- <a href="https://animated-faun-dd16eb.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
-</a>
+  <a href="https://animated-faun-dd16eb.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=netlify&logoColor=white&labelColor=4A3FBF" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ridmi-narthani">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
-</a>
- <p align="center">
-  <!-- Profile Views Badge -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=RidmiNarthani&label=Profile%20views&color=0eebff&style=flat" alt="Profile Views" />
-
-  <!-- Location Badge -->
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-00E5FF?style=flat&logo=google-maps&logoColor=white" alt="Location" />
-
-  <!-- Status Badge -->
   <img src="https://img.shields.io/badge/Status-Always%20Learning-2ECC71?style=flat&logo=bookmeter&logoColor=white" alt="Status" />
-
-  <!-- GitHub Followers Badge -->
   <a href="https://github.com/RidmiNarthani?tab=followers">
     <img src="https://img.shields.io/github/followers/RidmiNarthani?label=followers&style=flat&color=8A2BE2" alt="GitHub Followers" />
   </a>
-</p>
 </p>
 
 ---
