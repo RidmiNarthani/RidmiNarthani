@@ -1,6 +1,12 @@
 <!-- HEADER BANNER -->
+<h1 align="center">
+  <br>
+  <b>Ridmi Narthani</b>
+  <br>
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ridmi%20Narthani&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20Undergraduate%20%7C%20Data%20%26%20BI%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
+  <b>Business Analytics Undergraduate | Data & BI Enthusiast</b>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -25,7 +31,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <ul>
         <li>🎓 <b>Business Analytics Undergraduate</b> leveraging data to drive strategic decisions.</li>
         <li>📊 Passionate about <b>Data Analytics, BI Analytics, and Project Management</b>.</li>
@@ -34,8 +40,8 @@
         <li>🎯 Goal: Bridging the gap between <b>Business Strategy & Data Analytics</b>.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="160" alt="Analytics Chart" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="150" alt="Analytics Chart" />
     </td>
   </tr>
 </table>
