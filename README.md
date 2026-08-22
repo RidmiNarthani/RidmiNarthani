@@ -6,7 +6,7 @@
 
 <!-- 3D Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=3D+Developer+%F0%9F%8E%AE;Creative+Engineer+%F0%9F%9A%80;XR+Enthusiast+%F0%9F%91%93;Full-Stack+Architect+%F0%9F%8F%97%EF%B8%8F;UI%2FUX+Designer+%F0%9F%8E%A8" alt="3D Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=3D+Developer+%F0%9F%8E%AE;Creative+Engineer+%F0%9F%9A%80;XR+Enthusiast+%F0%9F%91%93;Full-Stack+Architect+%F0%9F%8F%97%EF%B8%8F;UI%2FUX+Designer+%F0%9F%8E%A8" alt="3D Typing SVG](https://raw.githubusercontent.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif)" />
 </p>
 
 <!-- 3D Social Badges with Depth Effect -->
