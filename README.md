@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ridmi%20Narthani&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20Undergraduate%20%7C%20Data%20%26%20BI%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://svg-banners.my.id/api?text=Ridmi%20Narthani&subtext=Business%20Analytics%20Undergraduate%20%7C%20Data%20%26%20BI%20Enthusiast&width=800&height=200&theme=dark" alt="Header Banner" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -35,7 +35,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/data-analysis-illustration-download-in-svg-png-gif-file-formats--analytics-business-dashboard-graph-pack-people-illustrations-4370217.png" width="100%" alt="Analytics Illustration" />
+      <img src="https://assets10.lottiefiles.com/packages/lf20_m2ezl3ed.json" width="100%" alt="Data Analytics" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/SVGs/svg-logos/main/images/data.svg';" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="180" alt="Analytics Chart" />
     </td>
   </tr>
 </table>
