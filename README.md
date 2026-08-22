@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3D%20Glasses.png" alt="3D Glasses" width="40" height="40" />
+  <img src=["https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3D%20Glasses.png" alt="3D Glasses" width="40" height="40"](https://raw.githubusercontent.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif) />
   Hi, I'm <span style="color:#6C63FF; text-shadow: 3px 3px 0 #FF6584;">Ridmi Narthani</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 </h1>
