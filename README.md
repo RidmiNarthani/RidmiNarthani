@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Ridmi%20Narthani&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Business%20Analytics%20enthusiastic&descAlignY=55&descSize=20" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Ridmi%20Narthani&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Business%20Analytics%20Enthusiastic&descAlignY=55&descSize=20" />
   
   Hi, I'm <span style="color:#6C63FF; text-shadow: 3px 3px 0 #FF6584;">Ridmi Narthani</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
